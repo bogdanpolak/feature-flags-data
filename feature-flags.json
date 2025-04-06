@@ -1,25 +1,25 @@
 [
     {
       "id": 1,
-      "name": "GooglePay",
+      "name": "Google.Pay",
       "isActive": false,
       "label": null
     },
     {
       "id": 2,
-      "name": "GooglePay",
+      "name": "Google.Pay",
       "isActive": true,
       "label": "users:bpolak@oec.pl,hsolo@oec.pl"
     },
     {
       "id": 3,
-      "name": "ApplePay",
+      "name": "Apple.Pay",
       "isActive": false,
       "label": null
     },
     {
       "id": 4,
-      "name": "ApplePay",
+      "name": "Apple.Pay",
       "isActive": true,
       "label": "users:[paladins],hsolo@oec.pl"
     }
